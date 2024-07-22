@@ -1,0 +1,12 @@
+metadata_version: 1
+name: A Robust Two-step Method for Clustering and Dealing with Outlier Sets in Big
+  Data
+description: This paper addresses the need for a computationally efficient method
+  to automate the identification of outliers in low-dimensional subsets of terabyte-scale
+  datasets. Our novel methodology, Outlier Set Two-step Identification, employs a
+  two-step approach to identify and label clustered groups of anomalous points as
+  single entities, which we term “outlier sets.”
+authors:
+- name: Amal Sarfraz
+  affiliations:
+  - name: The University of Sheffield
